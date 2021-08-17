@@ -1,9 +1,9 @@
-# **Planet Travel**
+# Planet Travel
 
 
 ![Planet](https://user-images.githubusercontent.com/79240706/129446965-8141c5da-f91a-4566-9ca2-49b08730f81f.PNG)
 
-# **Built With**
+# Built With
 
 This project was built using below technologies.
 
@@ -11,11 +11,11 @@ This project was built using below technologies.
 2. CSS
 3. VsCode
 
-# **How to get started?**
+# How to get started?
 
 Install git on your machine and clone this repository.
 
-# **How to run the project?**
+# How to run the project?
 
 Open http://localhost:5500 to view it in the browser. After editing the webpage will reload.
 
