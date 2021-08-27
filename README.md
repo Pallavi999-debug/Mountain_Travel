@@ -1,7 +1,13 @@
-# Planet Travel
+<h2 align="center">
+  Planet Travel Website <br/>
+  <a href="https://geminipizza.vercel.app/" target="">Planet_Travel</a>
+</h2>
 
+<div align="center">
+  
+ <img alt="Demo" src="./images/content/Planet Travel.PNG" />
 
-![Planet](https://user-images.githubusercontent.com/79240706/129446965-8141c5da-f91a-4566-9ca2-49b08730f81f.PNG)
+</div>
 
 # Built With
 
