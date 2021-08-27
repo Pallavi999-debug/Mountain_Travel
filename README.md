@@ -1,6 +1,6 @@
 <h2 align="center">
   Planet Travel Website <br/>
-  <a href="https://geminipizza.vercel.app/" target="">Planet_Travel</a>
+  <a href="https://planet-travel.vercel.app/" target="">Planet_Travel</a>
 </h2>
 
 <div align="center">
